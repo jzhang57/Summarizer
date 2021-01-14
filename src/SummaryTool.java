@@ -15,12 +15,12 @@ public class SummaryTool{
         /* This determines what files each thread will be summarizing */
 		private int startIndex;
 		private int endIndex;
-        String [] allFileNames;
+        	String [] allFileNames;
 		
 		public SummaryWorker (int start, int end, String[] fileNames) {
 			startIndex = start;
 			endIndex = end;
-            allFileNames = fileNames;
+            		allFileNames = fileNames;
 		}
 		
 		@Override

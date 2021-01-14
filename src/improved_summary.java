@@ -3,9 +3,9 @@ class improved_summary{
 	public static void main(String[] args){
 
 		
-		/* If you wish to single thread of multi thread, comment out the 
-		 * corresponding code!
-		 */
+	/* If you wish to single thread of multi thread, comment out the 
+	   corresponding code! */
+		 
 
     /* ========= Multi-thread Portion of Code, uses 8 threads. ============= */
 

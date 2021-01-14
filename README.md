@@ -14,12 +14,9 @@ You should keep adding the names of files you would like summarized, with a spac
  
 
 ### Thoughts
-Overall, this program was something done for fun! I don't have any desire to expand what this program does, but if I were to give it some changes, I would do the following. </br>
+Overall, this program was something done for fun! I don't have any desire to expand what this program does, but if I were to give it some changes, I would do the following. 
 First, I would make it easier for the program to distinguish paragraphs because currently, this program defines a paragraph as two newlines at the end of some text.
 Second, be able to extract the body of URL website and summarized an article from the web. All in all, this project was something fun and cool to see work in action.
 specifying what a paragraph is (two new lines)
 scanning a url website, 
 
-
-</br>
-### Explaining the Algorithm
